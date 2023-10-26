@@ -24,3 +24,10 @@ Return code: 200
 
 $ docker stop webserver
 ```
+
+## Build
+
+```
+$ docker build -t arnaduga/minimalwebserver:latest .
+
+```
